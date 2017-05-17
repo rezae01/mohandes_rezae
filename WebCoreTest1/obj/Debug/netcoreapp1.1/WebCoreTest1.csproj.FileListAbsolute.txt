@@ -1,0 +1,9 @@
+c:\users\areza\documents\visual studio 2017\Projects\WebCoreTest1\WebCoreTest1\bin\Debug\netcoreapp1.1\WebCoreTest1.deps.json
+c:\users\areza\documents\visual studio 2017\Projects\WebCoreTest1\WebCoreTest1\bin\Debug\netcoreapp1.1\WebCoreTest1.runtimeconfig.json
+c:\users\areza\documents\visual studio 2017\Projects\WebCoreTest1\WebCoreTest1\bin\Debug\netcoreapp1.1\WebCoreTest1.runtimeconfig.dev.json
+c:\users\areza\documents\visual studio 2017\Projects\WebCoreTest1\WebCoreTest1\bin\Debug\netcoreapp1.1\WebCoreTest1.dll
+c:\users\areza\documents\visual studio 2017\Projects\WebCoreTest1\WebCoreTest1\bin\Debug\netcoreapp1.1\WebCoreTest1.pdb
+c:\users\areza\documents\visual studio 2017\Projects\WebCoreTest1\WebCoreTest1\obj\Debug\netcoreapp1.1\WebCoreTest1.csprojResolveAssemblyReference.cache
+c:\users\areza\documents\visual studio 2017\Projects\WebCoreTest1\WebCoreTest1\obj\Debug\netcoreapp1.1\WebCoreTest1.AssemblyInfo.cs
+c:\users\areza\documents\visual studio 2017\Projects\WebCoreTest1\WebCoreTest1\obj\Debug\netcoreapp1.1\WebCoreTest1.dll
+c:\users\areza\documents\visual studio 2017\Projects\WebCoreTest1\WebCoreTest1\obj\Debug\netcoreapp1.1\WebCoreTest1.pdb
